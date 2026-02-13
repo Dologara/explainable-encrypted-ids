@@ -23,3 +23,6 @@ CICIDS2017 (not included in this repository).
 ## Disclaimer
 Results are based on offline experimentation and should be interpreted as
 upper-bound estimates rather than deployment-ready performance.
+
+## License
+This project is released under the MIT License.
